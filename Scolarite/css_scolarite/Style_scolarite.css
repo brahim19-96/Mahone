@@ -1,0 +1,35 @@
+body{
+    background: url(../img_scolarite/thumb-1920-26102.jpg);
+}
+.site{
+    font-family: 'Squada One', cursive;
+}
+.text-logo{
+    color: dodgerblue;
+    font-weight: bold;
+    text-shadow: 3px 2px black;
+    font-size:50px;
+    padding:40px 0px;
+    text-align: center;
+}
+.text-logo .glyphicon{
+    color: darkred;
+}
+.nav{
+    margin-bottom: 40px;
+}
+.thumbnail img{
+    background-color: dodgerblue;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
+    background-color: darkred;
+}
+.nav>li>a:focus, .nav>li>a:hover{
+    color: dodgerblue;
+    background-color: white;
+}
+.nav>li>a{
+    color: dodgerblue;
+    font-size: 30px;
+    text-shadow:2px 2px black;
+}
