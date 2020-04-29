@@ -48,7 +48,10 @@ body{
     background-color: black;
 }
 
-
+.img-thumbnail{
+    margin-top: 20px;
+    background-color: darkred;
+}
 
 
 

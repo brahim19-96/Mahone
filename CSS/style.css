@@ -17,6 +17,7 @@ body{
 }
 .nav{
     margin-bottom: 40px;
+    margin-left: auto;
 }
 .thumbnail img{
     background-color: darkred;
@@ -45,4 +46,8 @@ body{
 .btn-order:focus, btn-order:hover{
     color:white;
     background-color: black;
+}
+.img-thumbnail{
+    margin-top: 20px;
+    background-color: darkred;
 }
